@@ -2,5 +2,5 @@
  Desafio:
 ==========
 
-Altere a vers‹o 04:
+Altere a versão 04:
  * Acrescente um tileset chão no cenário.
