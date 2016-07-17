@@ -8,5 +8,4 @@ O curso é composto por 6 módulos diferentes, contendo um desafio para cada eta
 ## Instalação ##
 Para rodar o curso é necessário instalar o Python 2.7 e PyGame 1.9.2 para Python 2.7.
 
-Instruções de instalação para Windows:
-https://github.com/juhhcarmona/Curso-PyGame/blob/master/instala%C3%A7%C3%A3o_PyGame-Windows.pdf
+Instruções de instalação para Windows: https://github.com/juhhcarmona/Curso-PyGame/blob/master/install-windows.pdf
