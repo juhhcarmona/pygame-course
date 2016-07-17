@@ -2,13 +2,13 @@
  Desafio:
 ==========
 
-Altere a versão 04 de modo que:
- * A Paola, após atingir a borda direta da tela
+Altere a vers√£o 04 de modo que:
+ * A Paola, ap√≥s atingir a borda direta da tela
    recomece na borda esquerda uma 'linha' abaixo.
- * Repetir o item anterior atÈ atingir a borda inferior.
+ * Repetir o item anterior at√© atingir a borda inferior.
 
 
- Ilustração:
+ Ilustra√ß√£o:
 =============
 
  ############

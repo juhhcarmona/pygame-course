@@ -2,7 +2,7 @@
  Desafio:
 ==========
 
-Altere a versão 04 de modo que:
+Altere a vers√£o 04 de modo que:
  * Insira mais um ator de modo que este possa ser controlado pelas teclas:
    - 'a' (Esquerda),
    - 'd' (Direita),
