@@ -2,12 +2,12 @@
  Desafio:
 ==========
 
-Altere a versão 04 de modo que:
- * A Paola, após atingir a borda direita da tela
-   desça parando ao atingir a borda inferior.
+Altere a vers√£o 04 de modo que:
+ * A Paola, ap√≥s atingir a borda direita da tela
+   des√ßa parando ao atingir a borda inferior.
 
 
- Ilustração:
+ Ilustra√ß√£o:
 =============
 
  ############
