@@ -1,0 +1,6 @@
+
+ Desafio:
+==========
+
+Altere a vers‹o 04:
+ * Acrescente um tileset ch‹o no cen‡rio.

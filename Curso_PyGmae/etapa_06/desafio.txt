@@ -1,0 +1,8 @@
+
+ Desafio:
+==========
+
+Altere a vers‹o 04 de modo que:
+ * Durante a caminhada de Beneton:
+   - toque uma musica de fundo,
+   - e ao prescionar a tecla 'l' reproduza um som de laser.

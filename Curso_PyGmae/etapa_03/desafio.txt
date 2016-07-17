@@ -1,0 +1,13 @@
+
+ Desafio:
+==========
+
+Altere a versão 04 de modo que:
+ * A Paola e a Ju saiam de extremidades opostas na linha
+   próxima ao centro da tela e parem ao se encontrarem.
+
+
+ Ilustração:
+=============
+
+ ######%%%%%%

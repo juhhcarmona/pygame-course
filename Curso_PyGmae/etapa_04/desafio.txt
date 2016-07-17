@@ -1,0 +1,10 @@
+
+ Desafio:
+==========
+
+Altere a vers‹o 04 de modo que:
+ * Insira mais um ator de modo que este possa ser controlado pelas teclas:
+   - 'a' (Esquerda),
+   - 'd' (Direita),
+   - 'w' (Para Cima),
+   - 's' (Para Baixo).

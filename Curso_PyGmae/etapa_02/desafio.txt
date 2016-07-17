@@ -1,0 +1,18 @@
+
+ Desafio:
+==========
+
+Altere a versão 04 de modo que:
+ * A Paola, após atingir a borda direta da tela
+   recomece na borda esquerda uma 'linha' abaixo.
+ * Repetir o item anterior atÈ atingir a borda inferior.
+
+
+ Ilustração:
+=============
+
+ ############
+ ############
+ ############
+ ############
+ ############

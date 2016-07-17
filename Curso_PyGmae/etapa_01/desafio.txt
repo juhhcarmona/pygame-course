@@ -1,0 +1,17 @@
+
+ Desafio:
+==========
+
+Altere a versão 04 de modo que:
+ * A Paola, após atingir a borda direita da tela
+   desça parando ao atingir a borda inferior.
+
+
+ Ilustração:
+=============
+
+ ############
+            #
+            #
+            #
+            #
